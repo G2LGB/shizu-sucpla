@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: "./header.png";
+  background-image: url(https://github.com/G2LGB/shizu-sucpla/blob/main/header.png);
   background-size: cover;
   color: white;
   text-align: center;
